@@ -1,0 +1,8 @@
+.headline {
+    background: url("./images/Headerbg.svg") no-repeat;
+    background-position: cover;
+}
+
+.header-section {
+    padding: 18% 12% 6% 12%;
+}
