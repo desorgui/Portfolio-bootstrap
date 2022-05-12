@@ -35,9 +35,9 @@
 
 👤 **Desor
 
-- GitHub: [@githubhandle](https://github.com/desorgui)
-- Twitter: [@twitterhandle](https://twitter.com/DGuishny)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/guishny-desor-5421a01a9/)
+- GitHub: [Desorgui](https://github.com/desorgui)
+- Twitter: [@DGuishny](https://twitter.com/DGuishny)
+- LinkedIn: [Guishny Desor](https://www.linkedin.com/in/guishny-desor-5421a01a9/)
 
 
 ## 🤝 Contributing
